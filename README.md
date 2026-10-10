@@ -1,4 +1,4 @@
-
+[
 <div align="center">
 
 # 🃏 GABRIEL_DEV
@@ -80,8 +80,4 @@
 
 <div align="center">
 
-<img src="[ttps:/h/enosistudio.com/unity-balatro-background-effet-with-shader-graph/](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGd1Y3lvY3BsOXZ1M3Z3N2xleXZ0NGExejhid3dpZmowb2t4ZHRyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4qT5xy7pZfrkC760ew/giphy.gif)" width="100%" alt="Balatro animated background">
 
-
-
-</div>
