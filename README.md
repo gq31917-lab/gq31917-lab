@@ -82,6 +82,6 @@
 
 <img src="https://enosistudio.com/unity-balatro-background-effet-with-shader-graph/" width="100%" alt="Balatro animated background">
 
-</div>
+
 
 </div>
