@@ -77,9 +77,13 @@
 **Thanks for visiting my profile!**
 
 `♠ ♥ ♦ ♣` *See you on the next run.* `♣ ♦ ♥ ♠`
+
+
 <div align="center">
 
 <img src="LINK_DO_SEU_GIF" width="100%" alt="Balatro animated background">
+
+</div>
 
 
 
